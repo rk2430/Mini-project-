@@ -2,7 +2,6 @@
 //RA2111003011685-Rajesh kondeti 
 int main()
 
-
 {
 
 	int n,a,b,c,d,password,hallticketno;   float percentage,marks;
